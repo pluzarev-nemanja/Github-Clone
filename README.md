@@ -1,6 +1,6 @@
 <p align="center">
     <img src="app/src/main/ic_launcher-playstore.png" height="128">
-    <h1 align="center">Github Clonde</h1>
+    <h1 align="center">Github Clone</h1>
 </p>
 <p align="center">
   <a href="https://github.com/pluzarev-nemanja/Github-Clone" style="text-decoration:none" area-label="Android">
